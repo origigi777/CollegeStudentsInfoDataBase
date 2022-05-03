@@ -1,6 +1,6 @@
 # CollegeStudentsInfo
 DataBase in python & SQL based 
-college info management program with a simple user interface for changing info on the database
+college info management program with a simple user interface for changing info on the database - giving simple way to store and export important students' details
 
 used libraries:
 Tkinter – To create the GUI.
